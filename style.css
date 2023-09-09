@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+}
+.main{   
+    width: 550px;
+    height: 550px;
+    background: #1F2937;
+    margin: 50px auto;
+}
+.title{
+    width: 450px;
+    margin:0;
+    padding: 80px 0px 0px 25px;
+    color: var(--white, #FFF);
+    font-family: Karla;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1em;
+    letter-spacing: -1px;
+}
+.title-content{
+    color: #4ADF86;
+}
+.title-sub{
+    width:400px;
+    color:#D5D4D8;
+    font-size: 15px;
+    line-height: none;
+    padding: 0px 25px;
+}
+.btn{
+    background: #4ADF86;
+    color: #FFF;
+    margin: 25px;
+    padding:10px 20px;
+    border: none;
+    border-radius: 15px;
+    font-size: medium;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #348d57;
+}
+
+.password{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.password-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 200px;
+    height: 2.5rem;
+    padding: 0 5px;
+    background: #4ADF86;
+    color: #fff;
+    border:none;
+    border-radius: 1rem;
+    font-weight: bold;
+}
+
+.btn-copy{
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+
