@@ -58,10 +58,9 @@ body{
     min-width: 200px;
     height: 2.5rem;
     padding: 0 5px;
-    background: #4ADF86;
-    color: #fff;
-    border:none;
-    border-radius: 1rem;
+    background: #314157;
+    color: #4ADF86;
+    border-radius: 0.7rem;
     font-weight: bold;
 }
 
